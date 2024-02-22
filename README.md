@@ -53,7 +53,10 @@ first download models and save them in same directory with IPYNB file as jupyter
 5) Test trained model with this dataset in in IPYNB too.
 
 # results
+![](https://github.com/mahdiasdzd/PointNet/blob/main/newplot%20(5).png)
 ![](https://github.com/mahdiasdzd/PointNet/blob/main/Screenshot%20(529).png)
+![](https://github.com/mahdiasdzd/PointNet/blob/main/Screenshot%20(530).png)
+![](https://github.com/mahdiasdzd/PointNet/blob/main/Screenshot%20(531).png)
 
 # Future work
 Using other model like PointNet++, KPConv (Kernel Point Convolution), DGCNN (Dynamic Graph Convolutional Neural Network), RSNet (Range Scan Network), PointCNN, PointSIFT, SpiderCNN, ShellNet, PU-Net (Point Cloud U-Net), PointASNL
