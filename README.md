@@ -6,7 +6,7 @@ The official Dataset for ["ShapeNet_Core"](https://www.kaggle.com/datasets/jerem
 # Shape Net:
 dataset is a large and publicly available collection of 3D CAD models. It was created to facilitate research and development in the field of computer vision, particularly in tasks related to 3D object recognition, segmentation, and shape understanding.
 ShapeNet provides a diverse set of 3D models spanning various object categories, and it has been widely used in the computer vision and machine learning communities.
-
+["ShapeNet_Core data distribution"](https://github.com/mahdiasdzd/PointNet/blob/main/newplot%20(4).png).
 # Point Cloud:
 point cloud is a collection of data points defined in a three-dimensional coordinate system.
 Each point in the cloud represents a position in 3D space and may include additional information such as color, intensity, or other attributes associated with that point.
