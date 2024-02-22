@@ -44,7 +44,7 @@ first download models and save them in same directory with IPYNB file as jupyter
 2) Run IPYNB file with Jupyter or Google Colab
 
 
-3) 2) Run the following code to install the Requirements.
+3) Run the following code to install the Requirements.
 
     `pip install -r requirements.txt`
 
