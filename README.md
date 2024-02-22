@@ -34,7 +34,7 @@ Open Shape:
 first download models and save them in same directory with IPYNB file as jupyter notebooks then Run nootbooks.
 
 ### Model weights
-Kaggle Drive Link:().
+["Kaggle Output Link"](https://www.kaggle.com/code/mahdiasdzd/pointnet/output).
 
 ### Training and Testing
 1) Download Dataset
