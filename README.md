@@ -6,9 +6,9 @@ The official Dataset for ["ShapeNet_Core"](https://www.kaggle.com/datasets/jerem
 # Shape Net:
 dataset is a large and publicly available collection of 3D CAD models. It was created to facilitate research and development in the field of computer vision, particularly in tasks related to 3D object recognition, segmentation, and shape understanding.
 ShapeNet provides a diverse set of 3D models spanning various object categories, and it has been widely used in the computer vision and machine learning communities.
-!["ShapeNet_Core data distribution"](https://github.com/mahdiasdzd/PointNet/blob/main/newplot%20(4).png).
-!["ShapeNet_Core Raw Point Cloud"](https://github.com/mahdiasdzd/PointNet/blob/main/newplot.png).
-!["ShapeNet_Core Example"](https://github.com/mahdiasdzd/PointNet/blob/main/newplot%20(3).png).
+!["ShapeNet_Core data distribution"](https://github.com/mahdiasdzd/PointNet/blob/main/newplot%20(4).png)
+!["ShapeNet_Core Raw Point Cloud"](https://github.com/mahdiasdzd/PointNet/blob/main/newplot.png)
+!["ShapeNet_Core Example"](https://github.com/mahdiasdzd/PointNet/blob/main/newplot%20(3).png)
 
 # Point Cloud:
 point cloud is a collection of data points defined in a three-dimensional coordinate system.
@@ -53,7 +53,7 @@ first download models and save them in same directory with IPYNB file as jupyter
 5) Test trained model with this dataset in in IPYNB too.
 
 # results
-![](https://github.com/mahdiasdzd/mri/blob/main/Model-Results-2021.png)
+![](https://github.com/mahdiasdzd/PointNet/blob/main/Screenshot%20(529).png)
 
 # Future work
 Using other model like PointNet++, KPConv (Kernel Point Convolution), DGCNN (Dynamic Graph Convolutional Neural Network), RSNet (Range Scan Network), PointCNN, PointSIFT, SpiderCNN, ShellNet, PU-Net (Point Cloud U-Net), PointASNL
