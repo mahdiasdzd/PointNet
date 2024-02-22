@@ -1,4 +1,4 @@
-# Useing ShapeNet Dataset in Point Cloud for training PointNet Model with Semantic Segmentation extend with Open Shape and OOD(Out-of-Distribution) and Instance IDs
+# Using ShapeNet Dataset in Point Cloud for training PointNet Model with Semantic Segmentation extend with Open Shape and OOD(Out-of-Distribution) and Instance IDs
 
 The official code page in Kaggle ["Mahdi Asadzadeh"](https://www.kaggle.com/code/mahdiasdzd/pointnet).
 The official Dataset for ["ShapeNet_Core"](https://www.kaggle.com/datasets/jeremy26/shapenet-core-seg).
