@@ -53,4 +53,4 @@ Kaggle Drive Link:().
 ![](https://github.com/mahdiasdzd/mri/blob/main/Model-Results-2021.png)
 
 # Future work
-using other model like PointNet++, KPConv (Kernel Point Convolution), DGCNN (Dynamic Graph Convolutional Neural Network), RSNet (Range Scan Network), PointCNN, PointSIFT, SpiderCNN, ShellNet, PU-Net (Point Cloud U-Net), PointASNL
+Using other model like PointNet++, KPConv (Kernel Point Convolution), DGCNN (Dynamic Graph Convolutional Neural Network), RSNet (Range Scan Network), PointCNN, PointSIFT, SpiderCNN, ShellNet, PU-Net (Point Cloud U-Net), PointASNL
